@@ -31,8 +31,8 @@
             { 5090, "Kaboom Cliffs" },
             { 5100, "Bounceboro" },
             { 5110, "Boingbury" },
-            { 5130, "Splatville" },
-            { 5210, "Zapwood" }
+            { 5120, "Zapwood" },
+            { 5130, "Splatville" }
         };
         static void Main() {
 
